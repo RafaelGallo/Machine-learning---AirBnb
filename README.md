@@ -15,4 +15,4 @@ Modelo de machine learning regreesão linear - Airbnb - SP
 
 Modelo de machine learning regreesão linear - Airbnb - NY
 
-![M.L Airbnb](https://github.com/RafaelGallo/Machine-learning---previsao-de-imovel--AirBnb/blob/main/P/A1.jpg)
+![M.L Airbnb](https://github.com/RafaelGallo/Machine-learning---AirBnb/blob/main/P/A1.jpg)
